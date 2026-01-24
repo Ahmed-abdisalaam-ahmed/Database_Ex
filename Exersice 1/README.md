@@ -1,7 +1,7 @@
 ## Student Task Sheet
 
 > Write the SQL queries to do the following:
-> 
+
 1. Find all students whose name ends with “d”.
 2. Find all students with Gmail addresses.
 3. Find all students whose email contains the letter “o”.
