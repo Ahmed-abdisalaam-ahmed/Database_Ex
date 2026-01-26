@@ -1,6 +1,4 @@
-# ✅ **Lesson 0 — What is a Database, and Why Do We Use It?**
-
----
+# ✅ **What is a Database, and Why Do We Use It?**
 
 ## 🎯 Lesson Objectives
 
