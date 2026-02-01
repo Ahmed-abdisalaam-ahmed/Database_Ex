@@ -18,5 +18,3 @@ left join courses on course_id = courses.id
 select name, COUNT(course_id) Total from students
 left join enrollements on student_id = students.id 
 group by students.id
-
-
